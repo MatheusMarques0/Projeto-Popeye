@@ -127,7 +127,7 @@ section > ul {
 section > ul > li {
     text-decoration: none;
     font-weight: bold;
-    padding: 10px;
+    padding: 1.2vh;
 }
 
 section > ul > li > a {
