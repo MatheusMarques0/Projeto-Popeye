@@ -121,7 +121,7 @@ section > p > a:hover {
 section > ul {
     list-style-type: "\00A0\27A1\00A0";
     padding-left: 10px;
-    line-height: 3vh;
+    line-height: 2.5vh;
 }
 
 section > ul > li {
