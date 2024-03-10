@@ -40,7 +40,7 @@ header > p {
 section {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 3vh;
-    font-size: 4vh;
+    font-size: 3vh;
     padding-right: 3vh;
 }
 
@@ -122,6 +122,12 @@ section > ul {
     list-style-type: "\00A0\27A1\00A0";
     padding-left: 10px;
     line-height: 3vh;
+}
+
+section > ul > li {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
 }
 
 section > ul > li > a {
