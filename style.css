@@ -80,8 +80,8 @@ section.imagem > p {
     padding-left: 5vh;
     background-color: rgba(0, 0, 0, 0.578);
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.299);
-    margin-top: 5vh;
-    margin-bottom: 5vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
 section > p > span {
